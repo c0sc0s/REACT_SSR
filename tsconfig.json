@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "./dist",
+    "experimentalDecorators": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "./src"
+  ]
+}
